@@ -1,0 +1,14 @@
+# 講義映像・配布資料は絶対にコミットしない
+*.mp4
+*.mov
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.csv
+
+# OS / エディタ
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
